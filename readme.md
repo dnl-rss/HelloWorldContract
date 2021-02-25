@@ -69,7 +69,7 @@ The `Injected Web3` environment allows the [Remix browser](http://remix.ethereum
 
 Test the functionality of `setMessage()`. The transaction will require gas and take ~15 seconds to execute. It is important to test contracts with the asynchronous processes imposed by decentralized blockchains. The message can be accessed with `message()`.
 
-[Remix Test](figs/remix_test.png)
+![Remix Test](figs/remix_test.png)
 
 # Appendix: Setup and Dependencies
 
